@@ -1,4 +1,4 @@
 # aterg
 Work group training
 
-Reository du Greta commencé le 14 Février 2023
+Repository du Greta commencé le 14 Février 2023
