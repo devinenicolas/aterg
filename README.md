@@ -1,0 +1,2 @@
+# aterg
+Work group training
