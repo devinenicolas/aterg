@@ -1,7 +1,7 @@
 # aterg
 Work group training
 
-Repository du Greta commencé le 14 Février 2023
+Repository commencé le 14 Février 2023
 
 2 classeurs Jupyter et un dataset pour le Rendu 6 de Data Analyse.
 
